@@ -1,0 +1,83 @@
+Space Gray:
+  # Basis kleuren
+  primary-color: "#81a6b7"
+  accent-color: "#81a6b7"
+
+  # Achtergronden
+  lovelace-background: "#253237"
+  background-color: "#253237"
+  primary-background-color: "#253237"
+  secondary-background-color: "#2d3e45"
+
+  # Cards
+  ha-card-background: "#2d3e45"
+  ha-card-border-radius: "12px"
+  ha-card-box-shadow: "0 2px 8px rgba(0, 0, 0, 0.3)"
+  ha-card-border-color: "#3a5059"
+
+  # Header / Sidebar
+  app-header-background-color: "#1e2a2f"
+  app-header-text-color: "#c1cdd3"
+  sidebar-background-color: "#1e2a2f"
+  sidebar-text-color: "#c1cdd3"
+  sidebar-icon-color: "#81a6b7"
+  sidebar-selected-background-color: "#2d3e45"
+  sidebar-selected-icon-color: "#81a6b7"
+  sidebar-selected-text-color: "#ffffff"
+
+  # Tekst
+  primary-text-color: "#c1cdd3"
+  secondary-text-color: "#a3b4bc"
+  text-primary-color: "#ffffff"
+  disabled-text-color: "#5e8292"
+
+  # Dividers & borders
+  divider-color: "#3a5059"
+
+  # States
+  state-icon-color: "#81a6b7"
+  state-icon-active-color: "#81a6b7"
+
+  # Switches / toggles
+  switch-checked-color: "#81a6b7"
+  switch-checked-track-color: "#4a6a78"
+  switch-unchecked-color: "#5e8292"
+  switch-unchecked-track-color: "#3a5059"
+
+  # Sliders
+  paper-slider-active-color: "#81a6b7"
+  paper-slider-knob-color: "#81a6b7"
+  paper-slider-container-color: "#3a5059"
+
+  # Inputs
+  input-fill-color: "#1e2a2f"
+  input-ink-color: "#c1cdd3"
+  input-label-ink-color: "#a3b4bc"
+  input-idle-line-color: "#3a5059"
+  input-dropdown-icon-color: "#81a6b7"
+
+  # Dialogs / popups
+  paper-dialog-background-color: "#2d3e45"
+  paper-dialog-color: "#c1cdd3"
+
+  # Badges
+  label-badge-background-color: "#2d3e45"
+  label-badge-text-color: "#c1cdd3"
+
+  # Ripple
+  mdc-ripple-color: "#81a6b7"
+
+  # Tile card
+  state-light-active-color: "#81a6b7"
+  state-switch-active-color: "#81a6b7"
+
+  # Toolbar
+  toolbar-background-color: "#1e2a2f"
+
+  # Code editor
+  code-editor-background-color: "#1e2a2f"
+
+  # Modes
+  modes:
+    dark:
+      primary-color: "#81a6b7"
