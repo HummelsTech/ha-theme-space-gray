@@ -2,7 +2,9 @@
 
 A deep teal-gray theme with soft blue accents for Home Assistant. Designed for dark-mode dashboards with excellent readability and a calm, professional look.
 
-![Space Gray Theme](screenshots/space-gray-energy.png)
+![Space Gray Energy Dashboard](screenshots/space-gray-energy.png)
+
+![Space Gray Settings](screenshots/space-gray-settings.png)
 
 ## Colors
 
