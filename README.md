@@ -24,7 +24,7 @@ A deep teal-gray theme with soft blue accents for Home Assistant. Designed for d
 
 1. Open HACS in Home Assistant
 2. Go to **Frontend** > **3-dot menu** > **Custom repositories**
-3. Add `HummelsTech/ha-theme-space-gray` as category **Theme**
+3. Add `HumAssist/ha-theme-space-gray` as category **Theme**
 4. Search for "Space Gray" and install
 5. Restart Home Assistant
 6. Go to **Profile** > **Theme** and select **Space Gray**
